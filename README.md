@@ -11,6 +11,7 @@ OpenClawワークスペースのスターターテンプレート集です。
 | [`startup-ideas`](./startup-ideas/) | 💡 スタートアップアイデア番 — ブレスト特化（idea-backlog.md 付き） |
 | [`dev-assistant`](./dev-assistant/) | 🛠️ 開発アシスタント — CI/PR監視、コード重視 |
 | [`notion-butler`](./notion-butler/) | 📓 Notion執事 — Notion連携特化型 |
+| [`oss-maintainer`](./oss-maintainer/) | 🔧 OSSメンテナ — Issue/PR管理・リリース運用・コミュニティ対応 |
 
 ## 使い方
 
